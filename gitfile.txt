@@ -1,1 +1,2 @@
 This is a Sample file.
+Changes applied for this file.
